@@ -1,8 +1,10 @@
 # Kolibri
 
 Kolibri is Alice-style keyboard with arrow cluster and rotary encoder support.
-- Uses Elite-C and tht diodes
+- Uses Elite-C and THT diodes
 - Pcb gasket mount
+- Pcb foam using 4mm Eva
+- FR4 plate
 - Stacked acrylic case
 
 ### Default Layout
