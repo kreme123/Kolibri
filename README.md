@@ -6,6 +6,7 @@ Kolibri is Alice-style keyboard with arrow cluster and rotary encoder support.
 - Pcb foam using 4mm Eva
 - FR4 plate
 - Stacked acrylic case
+- Rgb underglow
 
 <a href="https://imgur.com/d0MEZ7v"><img src="https://i.imgur.com/d0MEZ7v.jpg" title="source: imgur.com" /></a>
 
