@@ -10,7 +10,7 @@ Kolibri is Alice-style keyboard with arrow cluster and rotary encoder support.
 
 <a href="https://imgur.com/d0MEZ7v"><img src="https://i.imgur.com/d0MEZ7v.jpg" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/5kfvzkP"><img src="https://i.imgur.com/5kfvzkP.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Ncp2LYr"><img src="https://i.imgur.com/Ncp2LYr.jpg" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/DSsTqab"><img src="https://i.imgur.com/DSsTqab.jpg" title="source: imgur.com" /></a>
 
