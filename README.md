@@ -25,3 +25,5 @@ Kolibri is Alice-style keyboard with arrow cluster and rotary encoder support.
 [Build guide](Build%20%20guide.md)
 
 [Firmware](Firmware)
+
+Pictures taken by [pl4ntd4ddy](https://www.instagram.com/pl4ntd4ddy/)
