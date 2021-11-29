@@ -1,5 +1,16 @@
 # Build guide
 
+## Materials
+- 16 x [M2x8mm screws](https://www.aliexpress.com/item/32870342767.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl)
+- 8 x [M2x12mm standoffs](https://www.aliexpress.com/item/1005001478301407.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl)
+- ~70 [1N4148 diodes](https://www.aliexpress.com/item/2025724181.html?spm=a2g0s.9042311.0.0.52114c4d259Ayp)
+- [EC11 rotary encoder](https://www.aliexpress.com/item/10000056483250.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl)
+- [Silicone rubber feet](https://www.aliexpress.com/item/4000439059508.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl)
+- [Aluminum feet](https://www.aliexpress.com/item/32947889825.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl)
+- [WS2812B led strip](https://www.aliexpress.com/item/32682015405.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl) 60 IP30 (16 leds on one kolibri) 
+- [Double sided tape for feet](https://www.aliexpress.com/item/1005001401843627.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl) round 20mm
+## Building
+
 Connect Elite-C to computer and flash "kolibri_default.hex" firmware using qmk toolbox
 
 Solder diodes for all keys. Black stripe on diode to square pad on pcb
