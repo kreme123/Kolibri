@@ -9,6 +9,16 @@
 - [Aluminum feet](https://www.aliexpress.com/item/32947889825.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl)
 - [WS2812B led strip](https://www.aliexpress.com/item/32682015405.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl) 60 IP30 (16 leds on one kolibri) 
 - [Double sided tape for feet](https://www.aliexpress.com/item/1005001401843627.html?spm=a2g0s.9042311.0.0.52114c4dn6suyl) round 20mm
+- [Elite-C](https://deskthority.net/wiki/Elite-C)
+
+### Also
+- Soldering iron and solder
+- Phillips screwdriver
+- Flush side cutters
+- ~70 MX style switches
+- 5 PCB mount 2u stabilizers
+- Keycaps (check compatibility)
+
 ## Building
 
 Connect Elite-C to computer and flash "kolibri_default.hex" firmware using qmk toolbox
