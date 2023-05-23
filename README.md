@@ -29,3 +29,5 @@ https://user-images.githubusercontent.com/85822364/146816422-3a67405c-12d5-41d8-
 [Firmware](Firmware)
 
 Pictures taken by [pl4ntd4ddy](https://www.instagram.com/pl4ntd4ddy/)
+
+[![](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)](https://www.paypal.com/donate/?hosted_button_id=BAEE2KMJAVYBW)
